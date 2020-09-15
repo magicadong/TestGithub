@@ -10,7 +10,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Log.v("pxd","hello")
-        
+
         Log.v("pxd","hello 2")
+
+        Log.v("pxd","hello 3")
     }
 }
