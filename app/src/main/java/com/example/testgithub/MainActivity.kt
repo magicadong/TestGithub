@@ -14,5 +14,7 @@ class MainActivity : AppCompatActivity() {
         Log.v("pxd","hello 2")
 
         Log.v("pxd","hello 3")
+
+        Log.v("pxd","hello 4")
     }
 }
